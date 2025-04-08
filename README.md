@@ -8,7 +8,7 @@ A hashtag `#imersao-mobile-alura` é usada para comcompartilhar os resultados da
 - 14/04/2025 – primeira aula;
 - 15/04/2025 – segunda aula;
 - 16/04/2025 – terceira aula;
-- 17/04/2025 – [live de encerramento](https://www.youtube.com/live/FE5BJEERNMs?si=oPMlKu86JCbzytGd) no canal [@alura](https://www.youtube.com/@alura);.
+- 17/04/2025 – [live de encerramento](https://www.youtube.com/live/FE5BJEERNMs?si=oPMlKu86JCbzytGd) no canal [@alura](https://www.youtube.com/@alura).
 
 ## Links importantes
 
@@ -19,9 +19,9 @@ A hashtag `#imersao-mobile-alura` é usada para comcompartilhar os resultados da
 ### Links extras
 
 - Vídeo "[Como posso estudar melhor? #HipstersPontoTube](https://youtu.be/Is6c9KSGCbk?si=OLQRZQwujwElt_Ic)" no canal [@alura](https://www.youtube.com/@alura);
+- Vídeo "[Como fazer um bom portfólio em tecnologia com Diogo Pires | #HipstersPontoTube](https://youtu.be/gu1OXrirC0U?si=okdhZ0rx5XJ_xrtp)" do canal [@alura](https://www.youtube.com/@alura).
+- Vídeo "[O que é Flutter? #HipstersPontoTube](https://youtu.be/So5C-XSfGW0?si=_HpWUNLDIB6IGv6F)" do canal [@alura](https://www.youtube.com/@alura);
+- Episódio "[Flutter: Testes e Mundo Mobile – Hipsters Ponto Tech #425](https://pca.st/icb8ktgw)" do podcast [Hipsters Ponto Tech](https://pca.st/hpt);
 - Artigo "[Desenvolvimento de Apps Mobile: por onde começar?](https://www.alura.com.br/artigos/desenvolvimento-apps-mobile-por-onde-comecar)";
 - Artigo "[Flutter: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/desenvolvimento-apps-mobile-por-onde-comecar)";
-- Episódio "[Flutter: Testes e Mundo Mobile – Hipsters Ponto Tech #425](https://pca.st/icb8ktgw)" do podcast [Hipsters Ponto Tech](https://pca.st/hpt);
-- Vídeo "[O que é Flutter? #HipstersPontoTube](https://youtu.be/So5C-XSfGW0?si=_HpWUNLDIB6IGv6F)" do canal [@alura](https://www.youtube.com/@alura);
-- Artigo "[Flutter e o seu primeiro hello world](https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world)";
-- Vídeo "[Como fazer um bom portfólio em tecnologia com Diogo Pires | #HipstersPontoTube](https://youtu.be/gu1OXrirC0U?si=okdhZ0rx5XJ_xrtp)" do canal [@alura](https://www.youtube.com/@alura).
+- Artigo "[Flutter e o seu primeiro hello world](https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world)".
