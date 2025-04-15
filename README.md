@@ -14,7 +14,7 @@ A hashtag `#imersao-mobile-alura` é usada para comcompartilhar os resultados da
 
 1. Aula extra "[Começando do zero: comece a estudar FLUTTER por aqui](https://youtu.be/jaa_uUfppjc)" no canal [@alura](https://www.youtube.com/@alura);
 2. [Guia de mergulho](https://grupoalura.notion.site/Imers-o-Mobile-Guia-de-Mergulho-1ba379bdd09b80e3ac18c8512f31530d) da imersão;
-3. Vídeo "[Guia de carreira Fluttre - #HipstersPontoTube](https://youtu.be/ofuHDFOcgr8)" no canal [@alura](https://www.youtube.com/@alura).
+3. Vídeo "[Guia de carreira Flutter - #HipstersPontoTube](https://youtu.be/ofuHDFOcgr8)" no canal [@alura](https://www.youtube.com/@alura).
 
 ### Links extras
 
@@ -24,4 +24,5 @@ A hashtag `#imersao-mobile-alura` é usada para comcompartilhar os resultados da
 - Episódio "[Flutter: Testes e Mundo Mobile – Hipsters Ponto Tech #425](https://pca.st/icb8ktgw)" do podcast [Hipsters Ponto Tech](https://pca.st/hpt);
 - Artigo "[Desenvolvimento de Apps Mobile: por onde começar?](https://www.alura.com.br/artigos/desenvolvimento-apps-mobile-por-onde-comecar)";
 - Artigo "[Flutter: o que é e tudo sobre o framework](https://www.alura.com.br/artigos/desenvolvimento-apps-mobile-por-onde-comecar)";
-- Artigo "[Flutter e o seu primeiro hello world](https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world)".
+- Artigo "[Flutter e o seu primeiro hello world](https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world)";
+- [Techguide](https://techguide.sh/) sobre carreiras em tecnologia.

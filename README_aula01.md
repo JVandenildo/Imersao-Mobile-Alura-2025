@@ -5,7 +5,7 @@ Objetivos da aula:
 - Configurar o ambiente no IDX (atual Firebase Studio);
 - Importar assets;
 - Criar o arquivo da tela Splash;
-- Explorar conceitos importantes como temas personalizados e widgets fundamentias do Flutter (como Scaffold, Stack, Column, Image, Text e Elevated Button);
+- Explorar conceitos importantes como temas personalizados e widgets fundamentais do Flutter (como Scaffold, Stack, Column, Image, Text e Elevated Button);
 - Organizar as cores e estilos com os arquivos AppColor e AppTheme.
 
 ## Links da aula
