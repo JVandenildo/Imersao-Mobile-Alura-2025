@@ -3,8 +3,8 @@
 Objetivos da aula:
 
 - Construir a tela de detalhes dos restaurantes e permitir adicionar pratos à sacola;
-- Criar o BagProvider para gerenciar a sacola, com métodos de adicionar, remover e limpar itens;
-- Modularizar a AppBar com uma função getAppBar, incluindo Badge com contagem de itens;
+- Criar o `BagProvider` para gerenciar a sacola, com métodos de adicionar, remover e limpar itens;
+- Modularizar a AppBar com uma função `getAppBar`, incluindo Badge com contagem de itens;
 - Modelar os pratos (dishes) e integrá-los aos restaurantes e à sacola;
 - Desenvolver a tela de Checkout, com lógica para totalização do pedido e exibição de valor com `toStringAsFixed`.
 
