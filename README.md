@@ -7,7 +7,7 @@ A hashtag `#imersao-mobile-alura` é usada para comcompartilhar os resultados da
 - 11/04/2025 – [live de abertura](https://www.youtube.com/live/6b-UyD2mrVo) no canal [@alura](https://www.youtube.com/@alura);
 - 14/04/2025 – [primeira aula](https://youtu.be/kXsfHBzzlhE) no canal [@alura](https://www.youtube.com/@alura);
 - 15/04/2025 – [segunda aula](https://youtu.be/_M_u8ayAsMo) no canal [@alura](https://www.youtube.com/@alura);
-- 16/04/2025 – terceira aula;
+- 16/04/2025 – [terceira aula](https://youtu.be/q3ctZoU2oLg) no canal [@alura](https://www.youtube.com/@alura);;
 - 17/04/2025 – [live de encerramento](https://www.youtube.com/live/FE5BJEERNMs) no canal [@alura](https://www.youtube.com/@alura).
 
 ## Links importantes
